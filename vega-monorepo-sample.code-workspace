@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "vega",
+			"path": "packages/vega"
+		}
+	],
+	"settings": {}
+}
